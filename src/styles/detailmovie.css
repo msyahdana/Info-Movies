@@ -1,0 +1,15 @@
+.justify {
+  text-align: justify;
+}
+
+@media (min-width: 992px) {
+  iframe {
+    min-height: 700px;
+  }
+}
+
+@media (max-width: 991px) {
+  iframe {
+    min-height: 400px;
+  }
+}
